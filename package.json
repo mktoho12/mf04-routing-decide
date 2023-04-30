@@ -1,0 +1,17 @@
+{
+  "name": "mf04-routing-decide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mfserve --listen 3001",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@microfrontends/serve": "^11.3.0",
+    "h-include": "^4.4.0"
+  }
+}
