@@ -5,7 +5,7 @@ html {
 }
 
 html::after {
-  content: "Team Decide";
+  content: "Team Decide (Routing)";
   display: block;
   background-color: #bc3630;
   color: white;
@@ -21,7 +21,7 @@ html::after {
 }
 
 .inspire_fragment::before {
-  content: "Team Inspire (Routing) ";
+  content: "Team Inspire (Routing)";
   display: block;
   background-color: #7c9b2f;
   color: white;
